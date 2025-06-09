@@ -12,8 +12,8 @@ A visually appealing **Gallery App** built using **React JS**. This application 
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the live site](https://abhigalleryapp.ccbp.tech)  
-🔗 URL: https://abhigalleryapp.ccbp.tech
+👉 [Click here to view the live site](https://bhumigalleryapp.ccbp.tech)  
+🔗 URL: https://bhumigalleryapp.ccbp.tech
 
 ## ✨ Features
 
